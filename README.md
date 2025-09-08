@@ -16,7 +16,7 @@ This program runs in the terminal and allows the user to choose the desired pass
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/password-generator.git
+   git clone https://github.com/abolfazlyousefi5/password-generator.git
 2. Navigate into the project folder:
 cd password-generator
 
