@@ -23,7 +23,7 @@ cd password-generator
 3.Run the program :
 python main.py
 
-## 📸 Example:
+## 📸 Example
 Choose An Option : 
     1) Create a Password
     2) Exit
@@ -31,14 +31,14 @@ Your Choice : 1
 Enter The Length Of Password : 12
 Generated Password : 9&Ma%fT$h!Q1
 
-## 📌 About :
+## 📌 About 
 This is a mini project written in Python for practicing basics such as:
 
-.Working with loops
+- Working with loops
 
-.Handling user input
+- Handling user input
 
-.Using built-in libraries like random and string
+- Using built-in libraries like random and string
 
 Useful for anyone learning Python and beginners who want to practice simple but practical projects.
 
