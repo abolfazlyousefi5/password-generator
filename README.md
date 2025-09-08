@@ -16,11 +16,11 @@ This program runs in the terminal and allows the user to choose the desired pass
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/password-generator.git
+   git clone https://github.com/abolfazlyousefi5/password-generator.git
 2. Navigate into the project folder:
 cd password-generator
 
-3.Run the program:
+3.Run the program :
 python main.py
 
 📸 Example:
@@ -34,10 +34,11 @@ Generated Password : 9&Ma%fT$h!Q1
 📌 About :
 This is a mini project written in Python for practicing basics such as:
 
-- Working with loops
+.Working with loops
 
-- Handling user input
+.Handling user input
 
-- Using built-in libraries like random and string
+.Using built-in libraries like random and string
 
 Useful for anyone learning Python and beginners who want to practice simple but practical projects.
+
