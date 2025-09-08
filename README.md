@@ -33,10 +33,10 @@ Generated Password : 9&Ma%fT$h!Q1
 ?? About:
 This is a mini project written in Python for practicing basics such as:
 
-.Working with loops
+-Working with loops
 
-.Handling user input
+-Handling user input
 
-.Using built-in libraries like random and string
+-Using built-in libraries like random and string
 
 Useful for anyone learning Python and beginners who want to practice simple but practical projects.
